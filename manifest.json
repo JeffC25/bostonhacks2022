@@ -15,5 +15,9 @@
             "48": "/images/BU_48.png",
             "128": "/images/BU_128.png"
         }
-    }
+    },
+    "content_scripts": [{
+        "matches": ["https://www.bu.edu/link/bin/uiscgi_studentlink.pl*"],
+        "css": ["main.css"]
+    }]
 }
