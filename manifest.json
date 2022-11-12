@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "BU Student Link Evo",
+    "version": "1.0",
+  
+    "description": "Improve your experience on BU Student Link!",
+    "icons": {
+        "16": "/images/BU_16.png",
+        "48": "/images/BU_48.png",
+        "128": "/images/BU_128.png"
+    },
+    "page_action": {
+        "default_icon":{
+            "16": "/images/BU_16.png",
+            "48": "/images/BU_48.png",
+            "128": "/images/BU_128.png"
+        }
+    }
+}
